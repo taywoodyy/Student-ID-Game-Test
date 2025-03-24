@@ -22,7 +22,7 @@ My Student ID is 801284817.
 * **Randomized Start:** Each game starts with a unique shuffled arrangement.
 * **Clear Goal:** The objective is straightforward: match my Student ID sequence.
 
-## Future Enhancements (Optional)
+## Future Enhancements
 
 * Add a graphical user interface (GUI).
 * Implement different difficulty levels (e.g., more digits, more complex shuffling).
